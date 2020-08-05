@@ -655,7 +655,7 @@ section.sec {
 	top: 30px;
 	position: relative;
 	z-index: 9;
-	width: 265px;
+	width: 265px!important;
 	text-align: center;
 }
 
